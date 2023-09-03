@@ -16,5 +16,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/gabrielmlemes/coffee-shop/assets/114612673/e47ed842-ae93-4a8d-b242-000c3717eefa" width="900px" />
+  <img src="https://github.com/gabrielmlemes/previsao-do-tempo/assets/114612673/dc4ec148-b190-4ad5-b05b-7d17e7e18cd2" width="100%" />
 </div>
