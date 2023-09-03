@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá! Este é uma aplicação de rpevisão do tempo!</h1>  
+  <h1>👋 Olá! Este é uma aplicação de previsão do tempo!</h1>  
   <h2>Apicação feita consumindo a API do OpenWeather!
 </h2>
 </div>
